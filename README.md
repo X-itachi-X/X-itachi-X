@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=X-itachi-X&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![.](https://github-contributor-stats.vercel.app/api?username=X-itachi-X&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
