@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too
-
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ankit.prakash_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitprakashprogrammer) 
@@ -21,6 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=X-itachi-X&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=X-itachi-X&icon=0&color=0)](https://visitcount.itsvg.in)
