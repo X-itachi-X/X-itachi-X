@@ -18,6 +18,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=X-itachi-X&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=X-itachi-X&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=X_itachi_X&api_domain=wakapi.dev&theme=blue-green&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Coding%20Time&layout=)
+
 ## <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"> GitHub Trophies <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
 ![](https://github-profile-trophy.vercel.app/?username=X-itachi-X&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -73,3 +75,6 @@
  
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+ 
+ 
