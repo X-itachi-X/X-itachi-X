@@ -3,8 +3,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
 # 💫 About Me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="55%">
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="45%">
 🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too 
  
 <p align="center">
