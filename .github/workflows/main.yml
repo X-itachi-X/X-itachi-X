@@ -38,4 +38,13 @@ jobs:
           plugin_skyline_year: 2023
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
+          
+      - name: Detailed display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
        
