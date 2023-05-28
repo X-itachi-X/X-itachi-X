@@ -10,8 +10,9 @@
 <img align="left" width="45%" src="metrics.plugin.achievements.compact.svg"/>
 <img align="right" width="40%" src="metrics.plugin.activity.svg"/>
 <img align="left" width="40%" src="metrics.plugin.followup.indepth.svg"/>
-<img align="right" width="40%"  src="metrics.plugin.followup.user.svg"/>
 <img align="right" width="45%" src="metrics.plugin.stars.svg"/>
+<img align="left" width="40%"  src="metrics.plugin.followup.user.svg"/>
+
 <img align="left" width="45%" src="metrics.plugin.people.followers.svg"/>
  
 <p align="center">
