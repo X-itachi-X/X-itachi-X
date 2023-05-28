@@ -12,6 +12,7 @@
 <img align="left" width="45%" src="metrics.plugin.followup.indepth.svg"/>
 <img align="right" width="45%"  src="metrics.plugin.followup.user.svg"/>
 <img align="right" width="45%" src="metrics.plugin.stars.svg"/>
+<img align="left" width="50%" src="metrics.plugin.people.followers.svg"/>
  
 <p align="center">
 <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg">
