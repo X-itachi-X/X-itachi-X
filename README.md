@@ -6,7 +6,7 @@
 <img align="left" width="50%" src="metrics.base.svg"/>
 <!--🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too -->
 <img align="right" width="45%" src="metrics.plugin.isocalendar.svg"/>
-<img align="right"  width="23%" src="metrics.plugin.skyline.svg"/>
+<img  width="23%" src="metrics.plugin.skyline.svg"/>
 <img align="left" width="50%" src="metrics.plugin.achievements.compact.svg"/>
 <img align="right" width="45%" src="metrics.plugin.activity.svg"/>
 <img align="left" width="45%" src="metrics.plugin.followup.indepth.svg"/>
