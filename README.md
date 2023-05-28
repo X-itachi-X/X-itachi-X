@@ -3,10 +3,10 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
 # 💫 About Me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-<img align="left" width="50%" src="metrics.base.svg"/>
+<div><img align="left" width="50%" src="metrics.base.svg"/><img align="right" width="40%" src="metrics.plugin.isocalendar.svg"/><img align="right" width="30%" src="metrics.plugin.skyline.svg"/></div>
 <!--🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too -->
-<img align="right" width="40%" src="metrics.plugin.isocalendar.svg"/>
-<img align="right" width="30%" src="metrics.plugin.skyline.svg"/>
+
+
 <img align="left" width="50%" src="metrics.plugin.achievements.compact.svg"/>
 <img align="right" width="40%" src="metrics.plugin.activity.svg"/>
 <img align="left" width="45%" src="metrics.plugin.followup.indepth.svg"/>
