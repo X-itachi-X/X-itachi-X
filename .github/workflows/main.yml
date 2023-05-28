@@ -207,5 +207,13 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          
      
-        
+      - name: Followers
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.people.followers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers
