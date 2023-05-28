@@ -8,10 +8,10 @@
 <img align="right" width="45%" src="metrics.plugin.isocalendar.svg"/>
 <img align="right"  width="23%" src="metrics.plugin.skyline.svg"/>
 <img align="left" width="50%" src="metrics.plugin.achievements.compact.svg"/>
-<img align="right" width="46%" src="metrics.plugin.activity.svg"/>
-<img align="left"  src="metrics.plugin.followup.indepth.svg"/>
-<img align="left"  src="metrics.plugin.followup.user.svg"/>
-<img align="left"  src="metrics.plugin.stars.svg"/>
+<img align="right" width="45%" src="metrics.plugin.activity.svg"/>
+<img align="left" width="45%" src="metrics.plugin.followup.indepth.svg"/>
+<img align="right" width="45%"  src="metrics.plugin.followup.user.svg"/>
+<img align="right" width="45%" src="metrics.plugin.stars.svg"/>
  
 <p align="center">
 <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg">
