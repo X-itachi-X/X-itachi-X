@@ -3,8 +3,15 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
 # 💫 About Me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
- 
-🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too 
+<img align="left" src="metrics.base.svg"/>
+<!--🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too -->
+<img align="left" src="metrics.plugin.isocalendar.svg"/>
+<img align="left"  width="23%" src="metrics.plugin.skyline.svg"/>
+<img align="left"  src="metrics.plugin.achievements.compact.svg"/>
+<img align="left"  src="metrics.plugin.activity.svg"/>
+<img align="left"  src="metrics.plugin.followup.user.svg"/>
+<img align="left"  src="metrics.plugin.followup.indepth.svg"/>
+<img align="left"  src="metrics.plugin.stars.svg"/>
  
 <p align="center">
 <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg">
