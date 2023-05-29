@@ -30,6 +30,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=X-itachi-X&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=X-itachi-X&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=X-itachi-X&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=X_itachi_X&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 ## <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"> GitHub Trophies <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
