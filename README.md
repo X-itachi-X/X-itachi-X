@@ -1,3 +1,19 @@
+<!-- header anime -->
+
+<table>
+ <tr>
+  <td> <img src="https://media3.giphy.com/media/4ilFRqgbzbx4c/giphy.gif?cid=ecf05e47dcwkm0hgur8qeojbvjp23pceeo9pdii58gcaffvp&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220" width="150" > </td>
+  <td> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNhYjZjYjAwZDJkNzQwYWZiYWQ2ZDRjNjZmYzQxNzJlZTU0N2U1NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/12q7JyfK1UolW0/giphy.gif" height="220" width="150" > </td>
+  <td> <img src="https://media.tenor.com/S8tFSa9K66EAAAAC/sukuna-jujutsu-kaisen.gif" height="220" width="190" > </td>
+  <td> <img src="https://media.tenor.com/2MZefLVtgeUAAAAC/hitagi-senjougahara-anime.gif" height="220" width="150" > </td>
+  <td> <img src="https://media.tenor.com/ofKKbAiVczQAAAAM/gojo-gojo-saotoru.gif" height="220" width="150" > </td>
+ </tr>
+ </table>
+  
+
+
+
+
 <p><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" align="left" width="60%" height="auto"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="20%" height="auto" /></p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
