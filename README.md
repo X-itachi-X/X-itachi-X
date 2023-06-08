@@ -11,7 +11,7 @@
  </tr>
  </table>
 <!-- Line -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <img align="left" width="45%" src="metrics.base.svg"/><img align="right" width="40%" src="metrics.plugin.isocalendar.svg"/><img align="right" width="35%" src="metrics.plugin.skyline.svg"/>
