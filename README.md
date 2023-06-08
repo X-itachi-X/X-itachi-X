@@ -2,11 +2,11 @@
 
 <table>
  <tr>
-  <td> <img src="https://media3.giphy.com/media/4ilFRqgbzbx4c/giphy.gif?cid=ecf05e47dcwkm0hgur8qeojbvjp23pceeo9pdii58gcaffvp&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220vh" width="150vh" > </td>
-  <td> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNhYjZjYjAwZDJkNzQwYWZiYWQ2ZDRjNjZmYzQxNzJlZTU0N2U1NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/12q7JyfK1UolW0/giphy.gif" height="220vh" width="150vh" > </td>
-  <td> <img src="https://media.tenor.com/S8tFSa9K66EAAAAC/sukuna-jujutsu-kaisen.gif" height="220vh" width="190vh" > </td>
-  <td> <img src="https://media.tenor.com/2MZefLVtgeUAAAAC/hitagi-senjougahara-anime.gif" height="220vh" width="150vh" > </td>
-  <td> <img src="https://media.tenor.com/ofKKbAiVczQAAAAM/gojo-gojo-saotoru.gif" height="220vh" width="150vh" > </td>
+  <td> <img src="https://media3.giphy.com/media/4ilFRqgbzbx4c/giphy.gif?cid=ecf05e47dcwkm0hgur8qeojbvjp23pceeo9pdii58gcaffvp&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220%" width="150%" > </td>
+  <td> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNhYjZjYjAwZDJkNzQwYWZiYWQ2ZDRjNjZmYzQxNzJlZTU0N2U1NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/12q7JyfK1UolW0/giphy.gif" height="220%" width="150%" > </td>
+  <td> <img src="https://media.tenor.com/S8tFSa9K66EAAAAC/sukuna-jujutsu-kaisen.gif" height="220%" width="190%" > </td>
+  <td> <img src="https://media.tenor.com/2MZefLVtgeUAAAAC/hitagi-senjougahara-anime.gif" height="220%" width="150%" > </td>
+  <td> <img src="https://media.tenor.com/ofKKbAiVczQAAAAM/gojo-gojo-saotoru.gif" height="220%" width="150%" > </td>
  </tr>
  </table>
   
