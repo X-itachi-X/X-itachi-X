@@ -19,10 +19,8 @@
 <img align="left" width="49%" src="metrics.plugin.followup.indepth.svg"/><img align="center" width="45%"  src="metrics.plugin.followup.user.svg"/>
 <img align="left" width="60%" src="metrics.plugin.achievements.compact.svg"/>
 <img align="left" width="66%" src="metrics.plugin.people.followers.svg"/>
- 
-<p align="center">
-<img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg">
-</p> 
+ <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg" width="100%">
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
