@@ -1,3 +1,4 @@
+<!--ANDI BANDI SANDI JO CODE CHORI KRE USKI ---------->
 <!-- header anime -->
 <img src="https://media.tenor.com/If_cUJ1rpCEAAAAi/arcane-jinx.gif" width="25%" align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" width="36%" align="center"><img src="https://media.tenor.com/g0UqWKez17EAAAAi/arcane-jinx.gif" width="25%" align="right"></br>
 <img src="https://media.tenor.com/fRmdE8epuE0AAAAj/syctk-saycotik.gif" width="14%" align="center"><img src="https://media.tenor.com/fRmdE8epuE0AAAAj/syctk-saycotik.gif" width="10%" align="center"><img src="https://media.tenor.com/fRmdE8epuE0AAAAj/syctk-saycotik.gif" width="14%" align="center">
@@ -16,15 +17,8 @@
 <!--🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too -->
 <img align="left" width="60%" src="metrics.base.svg"><img align="center" width="33%" src="metrics.plugin.skyline.svg"><img align="left" width="60%" src="metrics.plugin.isocalendar.svg"><img align="center" width="33%" src="metrics.plugin.activity.svg"><img align="center" width="33%" src="metrics.plugin.stars.svg">
 <img align="left" width="49%" src="metrics.plugin.followup.indepth.svg"/><img align="center" width="45%"  src="metrics.plugin.followup.user.svg"/>
-
-
-
-
-
-
-
 <img align="left" width="60%" src="metrics.plugin.achievements.compact.svg"/>
-<img align="left" width="45%" src="metrics.plugin.people.followers.svg"/>
+<img align="left" width="66%" src="metrics.plugin.people.followers.svg"/>
  
 <p align="center">
 <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg">
