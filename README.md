@@ -1,5 +1,6 @@
 <!-- header anime -->
 <img src="https://media.tenor.com/If_cUJ1rpCEAAAAi/arcane-jinx.gif" width="25%" align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" width="45%" align="center"><img src="https://media.tenor.com/g0UqWKez17EAAAAi/arcane-jinx.gif" width="25%" align="right">
+<img src="https://media.tenor.com/fRmdE8epuE0AAAAj/syctk-saycotik.gif" width="15%" align="center"><img src="https://media.tenor.com/fRmdE8epuE0AAAAj/syctk-saycotik.gif" width="15%" align="center"><img src="https://media.tenor.com/fRmdE8epuE0AAAAj/syctk-saycotik.gif" width="15%" align="center">
  
 
 <table>
