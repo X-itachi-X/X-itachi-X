@@ -27,20 +27,26 @@
 # 📊 GitHub Stats: <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
 ![](https://wakapi.dev/api/badge/X_itachi_X/interval:today?label=today) ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/X_itachi_X/interval:30_days&label=last30d) [![](https://visitcount.itsvg.in/api?id=X-itachi-X&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://github-readme-stats.vercel.app/api?username=X-itachi-X&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=X-itachi-X&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=X-itachi-X&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=X_itachi_X&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Week%20Stats&layout=compact)
+<table>
+ <tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=X-itachi-X&theme=blue-green&bg_color=22272e&hide_border=false&include_all_commits=false&count_private=false"> </td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=X-itachi-X&theme=blue-green&bg_color=22272e&hide_border=false"> </td>
+ </tr>
+  <tr>
+  <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=X_itachi_X&api_domain=wakapi.dev&bg_color=22272e&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=This%20Week%20Stats&layout=compact"> </td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-itachi-X&theme=blue-green&bg_color=22272e&hide_border=false&include_all_commits=true&count_private=false&layout=compact" > </td>
+ </tr>
+ </table
+ </br>
 
 ## <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"> GitHub Trophies <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
-![](https://github-profile-trophy.vercel.app/?username=X-itachi-X&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=X-itachi-X&theme=radical&no-frame=true&no-bg=true&margin-w=25)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=22272e&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![.](https://github-contributor-stats.vercel.app/api?username=X-itachi-X&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![.](https://github-contributor-stats.vercel.app/api?username=X-itachi-X&limit=5&bg_color=22272e&theme=gruvbox&combine_all_yearly_contributions=true&no-bg=true)
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
