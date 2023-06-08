@@ -14,16 +14,16 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too -->
-<img align="left" width="60%" src="metrics.base.svg"><img align="center" width="33%" src="metrics.plugin.skyline.svg"><img align="left" width="60%" src="metrics.plugin.isocalendar.svg"><img align="center" width="33%" src="metrics.plugin.activity.svg"><img align="center" width="33%" src="metrics.plugin.stars.svg"><img align="left" width="60%" src="metrics.plugin.achievements.compact.svg"/>
+<img align="left" width="60%" src="metrics.base.svg"><img align="center" width="33%" src="metrics.plugin.skyline.svg"><img align="left" width="60%" src="metrics.plugin.isocalendar.svg"><img align="center" width="33%" src="metrics.plugin.activity.svg"><img align="center" width="33%" src="metrics.plugin.stars.svg">
+<img align="left" width="45%" src="metrics.plugin.followup.indepth.svg"/><img align="center" width="45%"  src="metrics.plugin.followup.user.svg"/>
 
 
 
 
 
-<img align="left" width="40%" src="metrics.plugin.followup.indepth.svg"/>
 
-<img align="left" width="40%"  src="metrics.plugin.followup.user.svg"/>
 
+<img align="left" width="60%" src="metrics.plugin.achievements.compact.svg"/>
 <img align="left" width="45%" src="metrics.plugin.people.followers.svg"/>
  
 <p align="center">
