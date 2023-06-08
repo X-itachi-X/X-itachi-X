@@ -1,4 +1,6 @@
 <!-- header anime -->
+<img src="https://media.tenor.com/If_cUJ1rpCEAAAAi/arcane-jinx.gif" width="25%" align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" width="45%" align="center"><img src="https://media.tenor.com/g0UqWKez17EAAAAi/arcane-jinx.gif" width="25%" align="right">
+ 
 
 <table>
  <tr>
@@ -9,16 +11,10 @@
   <td> <img src="https://media.tenor.com/ZQndYO4NwBcAAAAC/gojo-satoru.gif" height="290%" width="150%" > </td>
  </tr>
  </table>
-  
-
-
-
-
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" align="left" width="60%" height="auto"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="20%" height="auto" /></p>
-
+<!-- Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
-# 💫 About Me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
 <img align="left" width="45%" src="metrics.base.svg"/><img align="right" width="40%" src="metrics.plugin.isocalendar.svg"/><img align="right" width="35%" src="metrics.plugin.skyline.svg"/>
 <!--🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too -->
 
