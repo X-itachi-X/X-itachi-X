@@ -16,6 +16,7 @@
 
 <!--🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too -->
 <!-- About Me-->
+<h1 align="center"> About Me </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Patua+One&size=31&duration=3000&pause=1000&color=959da5&width=598&lines=Who+Am+I+%3F;You+Wanna+Know+About+Me+%3F;I+Am+Vengeance+!+;Just+Kidding....;Here+Look+At+My+Profile;But+you+Can+Call+me+The+Last+Hunter+King" alt="Typing SVG" width="70%" /></br>
 <img align="left" width="60%" src="metrics.base.svg"><img align="center" width="33%" src="metrics.plugin.skyline.svg"><img align="left" width="60%" src="metrics.plugin.isocalendar.svg"><img align="center" width="33%" src="metrics.plugin.activity.svg"><img align="center" width="33%" src="metrics.plugin.stars.svg">
 <img align="left" width="49%" src="metrics.plugin.followup.indepth.svg"/><img align="center" width="45%"  src="metrics.plugin.followup.user.svg"/>
@@ -26,6 +27,8 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 <!-- Tech Stack-->
+
+<h1 align="center">My Tech Stacks</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Patua+One&size=25&duration=3000&pause=1000&color=949494&width=598&height=60&lines=What+Do+I+Know+%3F;What+Tech+Stacks+I+Use+%3F;Which+Frameworks+I+work+on+%3F;What+Languages+I+like+to+Code+%3F;Which+IDEs+I+Use+to+Code+%3F;What+Operating+Systems+I+have+Worked+on+%3F" alt="Typing SVG" width="80%"> </br>
 
 
