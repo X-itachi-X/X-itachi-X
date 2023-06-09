@@ -15,6 +15,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too -->
+<img src="https://readme-typing-svg.demolab.com?font=Patua+One&size=31&duration=3000&pause=1000&color=FFFFFF&width=598&lines=Who+Am+I+%3F;You+Wanna+Know+About+Me+%3F;I+Am+Vengeance+!+;Just+Kidding....;Here+Look+At+My+Profile;But+you+Can+Call+me+The+Last+Hunter+King" alt="Typing SVG" width="70%" /></br>
 <img align="left" width="60%" src="metrics.base.svg"><img align="center" width="33%" src="metrics.plugin.skyline.svg"><img align="left" width="60%" src="metrics.plugin.isocalendar.svg"><img align="center" width="33%" src="metrics.plugin.activity.svg"><img align="center" width="33%" src="metrics.plugin.stars.svg">
 <img align="left" width="49%" src="metrics.plugin.followup.indepth.svg"/><img align="center" width="45%"  src="metrics.plugin.followup.user.svg"/>
 <img align="left" width="60%" src="metrics.plugin.achievements.compact.svg"/>
@@ -103,4 +104,5 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/X-itachi-X/X-itachi-X/main.yml">
+ 
  
