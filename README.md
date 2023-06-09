@@ -188,6 +188,7 @@
    
    </td>
  </tr>
+ 
    <tr>
    <th><h2> ☁️ Hosting/SaaS </h2></th>
    <th><h2> 📂 Cloud Storage </h2></th>
@@ -223,101 +224,85 @@
    
    </td>
  </tr>
+ 
  <tr>
    <th><h2> 🖥️ ML/DL </h2></th>
    <th><h2> 🧪 Testing </h2></th>
    <th><h2> 🛍️ Store </h2> </th> 
  </tr>
+ 
   <tr>
    <td>
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    
     
    </td>
    <td>
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+    <img src="https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white">
+    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+    <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
+    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
+    
     
    
    </td>
    <td>
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
+    <img src="https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
+    
    
    </td>
  </tr>
+ 
   <tr>
    <th><h2> 📺 Streaming </h2></th>
    <th><h2> 🎮 Gaming </h2></th>
    <th><h2> 🎓 Education </h2> </th> 
  </tr>
+ 
   <tr>
    <td>
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
+    <img src="https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white">
+    <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white">
+    <img src="https://img.shields.io/badge/fire%20tv-fc3b2d?style=for-the-badge&logo=amazon%20fire%20tv&logoColor=white">
+    <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white">
+    <img src="https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white">
     
    </td>
    <td>
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
+    <img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white">
+    <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
+    <img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white">
+    <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white">
+    <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white">
+    <img src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black">
+    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+
     
    
    </td>
    <td>
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
+    <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white">
+    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
+    <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
+    <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white">
+    <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
+    <img src="https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84">
+    <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6">
+    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
    
    </td>
  </tr>
-   <tr>
-   <th><h2> 💬 How To Reach Me ? </h2></th>
+</table>
  
- </tr>
-  <tr>
-   <td>
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    
-   </td>
-
- </tr>
- 
-
- </table>
 <!-- Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 
