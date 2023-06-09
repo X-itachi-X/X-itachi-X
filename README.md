@@ -41,7 +41,7 @@
  </tr>
  </table
  </br>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=X-itachi-X&theme=github-compact">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=X-itachi-X&theme=github-compact" width="100%">
 
 ## <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"> GitHub Trophies <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
 ![](https://github-profile-trophy.vercel.app/?username=X-itachi-X&theme=radical&no-frame=true&no-bg=true&margin-w=25)
