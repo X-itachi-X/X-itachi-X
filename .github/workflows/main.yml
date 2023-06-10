@@ -247,14 +247,16 @@ jobs:
           plugin_people_types: followers
           
           
-      - name: With worldmap
+      - name: Licenses with open-source ratio graphs
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.stargazers.worldmap.svg
+          filename: metrics.plugin.licenses.ratio.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts: no
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-          plugin_stargazers_worldmap_sample: 200
+          template: repository
+          repo: metrics
+          plugin_licenses: yes
+          plugin_licenses_setup: "bash -c '[[ -f package.json ]] && npm ci || true'"
+          plugin_licenses_legal: no
+          plugin_licenses_ratio: yes
+
