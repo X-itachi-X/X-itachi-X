@@ -35,7 +35,7 @@
 <img align="left" width="66%" src="metrics.plugin.people.followers.svg"/></img>           
 
 <img align="left" width="100%" src="profile-3d-contrib/profile-night-rainbow.svg"></img>
-<img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg" width="100%">
+
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
@@ -343,6 +343,7 @@
  </table
  </br>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=X-itachi-X&theme=github-compact" width="100%">
+ <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg" width="100%">
 
  <!-- Github Trophies-->
  <h1 align="center">
