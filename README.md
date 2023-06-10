@@ -24,13 +24,14 @@
 
 <img align="left" width="60%" src="metrics.base.svg"></img>
 <img align="center" width="33%" src="metrics.plugin.skyline.svg"></img> 
-<img align="left" width="60%" src="profile-3d-contrib/profile-night-rainbow.svg"></img>
-<img align="center" width="33%" src="metrics.plugin.activity.svg"></img>
-<img align="center" width="33%" src="metrics.plugin.stars.svg"></img>
+
+<img align="left" width="60%" src="metrics.plugin.activity.svg"></img>
+<img align="left" width="60%" src="metrics.plugin.stars.svg"></img>
 <img align="left" width="49%" src="metrics.plugin.followup.indepth.svg"/></img>
 <img align="center" width="45%"  src="metrics.plugin.followup.user.svg"/></img>
 <img align="left" width="60%" src="metrics.plugin.achievements.compact.svg"/></img>
 <img align="left" width="66%" src="metrics.plugin.people.followers.svg"/></img>
+<img align="left" width="100%" src="profile-3d-contrib/profile-night-rainbow.svg"></img>
 <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg" width="100%">
 
 <!--📏LINE-->
