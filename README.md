@@ -22,7 +22,7 @@
 
 </br>
 
-[<img align="left" width="60%" src="metrics.base.svg"></img>](#) [<img align="center" width="33%" src="metrics.plugin.skyline.svg"></img>](#) [<img align="left" width="60%" src="metrics.plugin.isocalendar.svg"></img>](#) [<img align="center" width="33%" src="metrics.plugin.activity.svg"></img>](#) [<img align="center" width="33%" src="metrics.plugin.stars.svg"></img>](#)
+[<details close><summary>Basic Details</summary><img align="left" width="60%" src="metrics.base.svg"></img></details>](#) [<details close><summary>Skyline calendar</summary><img align="center" width="33%" src="metrics.plugin.skyline.svg"></img></details>](#) [<img align="left" width="60%" src="metrics.plugin.isocalendar.svg"></img>](#) [<img align="center" width="33%" src="metrics.plugin.activity.svg"></img>](#) [<img align="center" width="33%" src="metrics.plugin.stars.svg"></img>](#)
 [<img align="left" width="49%" src="metrics.plugin.followup.indepth.svg"/></img>](#)[<img align="center" width="45%"  src="metrics.plugin.followup.user.svg"/></img>](#)
 [<img align="left" width="60%" src="metrics.plugin.achievements.compact.svg"/></img>](#)
 [<img align="left" width="66%" src="metrics.plugin.people.followers.svg"/></img>](#)
