@@ -309,7 +309,11 @@
 <!-- Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 
-# 📊 GitHub Stats: <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+<h1 align="center">
+ <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="9%">    GitHub Stats     <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="9%" >
+ </h1>
+
+
 ![](https://wakapi.dev/api/badge/X_itachi_X/interval:today?label=today) ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/X_itachi_X/interval:30_days&label=last30d) [![](https://visitcount.itsvg.in/api?id=X-itachi-X&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <table>
@@ -325,14 +329,19 @@
  </br>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=X-itachi-X&theme=github-compact" width="100%">
 
-## <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"> GitHub Trophies <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
-![](https://github-profile-trophy.vercel.app/?username=X-itachi-X&theme=radical&no-frame=true&no-bg=true&margin-w=25)
+ <h1 align="center">
+ <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="9%">    GitHub Trophies     <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="9%" >
+ </h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=22272e&theme=gruvbox)
+![](https://github-profile-trophy.vercel.app/?username=X-itachi-X&theme=radical&no-frame=false&no-bg=true&margin-w=65)
 
-### 🔝 Top Contributed Repo
-![.](https://github-contributor-stats.vercel.app/api?username=X-itachi-X&limit=5&bg_color=22272e&theme=gruvbox&combine_all_yearly_contributions=true&no-bg=true)
+ <div align="center">
+ <h2> ✍️ Random Dev Quote ✍️ </h2>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=22272e&theme=gruvbox">
+
+ <h2> 🔝 Top Contributed Repo 🔝 </h2>
+<img src="https://github-contributor-stats.vercel.app/api?username=X-itachi-X&limit=5&bg_color=22272e&theme=gruvbox&combine_all_yearly_contributions=true&no-bg=true">
+ </div>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
@@ -356,9 +365,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  
 <!--Music-->
- <img src="https://camo.githubusercontent.com/4724bb0207102e95a2b4ae8a61b2286022f7859aa029e83aad5389942e5a7793/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f496f75306737746c45346b6d6569535438592f323030772e776562703f6369643d6563663035653437646b6232633767707a6b65716a79736d6e7a3662627471717671636d656464776c62346a707a63352665703d76315f737469636b6572735f736561726368267269643d323030772e776562702663743d73" width="20%">
-<img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="50%">
-<img src="https://camo.githubusercontent.com/4724bb0207102e95a2b4ae8a61b2286022f7859aa029e83aad5389942e5a7793/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f496f75306737746c45346b6d6569535438592f323030772e776562703f6369643d6563663035653437646b6232633767707a6b65716a79736d6e7a3662627471717671636d656464776c62346a707a63352665703d76315f737469636b6572735f736561726368267269643d323030772e776562702663743d73" width="20%">
+<div align="center"><img src="https://camo.githubusercontent.com/4724bb0207102e95a2b4ae8a61b2286022f7859aa029e83aad5389942e5a7793/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f496f75306737746c45346b6d6569535438592f323030772e776562703f6369643d6563663035653437646b6232633767707a6b65716a79736d6e7a3662627471717671636d656464776c62346a707a63352665703d76315f737469636b6572735f736561726368267269643d323030772e776562702663743d73" width="21%"><img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="45%"><img src="https://camo.githubusercontent.com/4724bb0207102e95a2b4ae8a61b2286022f7859aa029e83aad5389942e5a7793/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f496f75306737746c45346b6d6569535438592f323030772e776562703f6369643d6563663035653437646b6232633767707a6b65716a79736d6e7a3662627471717671636d656464776c62346a707a63352665703d76315f737469636b6572735f736561726368267269643d323030772e776562702663743d73" width="21%"></div>
 
 
 
