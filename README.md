@@ -409,4 +409,4 @@
 
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/X-itachi-X/X-itachi-X/main.yml">
  
- 
+[![Metrics](https://github.com/X-itachi-X/X-itachi-X/actions/workflows/main.yml/badge.svg)](https://github.com/X-itachi-X/X-itachi-X/actions/workflows/main.yml) 
