@@ -41,6 +41,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Patua+One&size=25&duration=3000&pause=1000&color=949494&width=598&height=60&lines=What+Do+I+Know+%3F;What+Tech+Stacks+I+Use+%3F;Which+Frameworks+I+work+on+%3F;What+Languages+I+like+to+Code+%3F;Which+IDEs+I+Use+to+Code+%3F;What+Operating+Systems+I+have+Worked+on+%3F" alt="Typing SVG" width="80%"> </br>
 
 
+<<<<<<< Updated upstream
 <table align="center">
   <tr>
    <th width="33%"><h2> 📋 Languages </h2></th>
@@ -323,6 +324,8 @@
  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="9%">    GitHub Stats     <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="9%" >
  </h1>
 
+=======
+>>>>>>> Stashed changes
 
 ![](https://wakapi.dev/api/badge/X_itachi_X/interval:today?label=today) ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/X_itachi_X/interval:30_days&label=last30d) [![](https://visitcount.itsvg.in/api?id=X-itachi-X&icon=0&color=0)](https://visitcount.itsvg.in)
 
