@@ -18,11 +18,12 @@
 <!-- About Me-->
 <h1 align="center"> About Me </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Patua+One&size=31&duration=3000&pause=1000&color=959da5&width=598&lines=Who+Am+I+%3F;You+Wanna+Know+About+Me+%3F;I+Am+Vengeance+!+;Just+Kidding....;Here+Look+At+My+Profile;But+you+Can+Call+me+The+Last+Hunter+King" alt="Typing SVG" width="70%" /></br>
-<img align="left" width="60%" src="metrics.base.svg"><img align="center" width="33%" src="metrics.plugin.skyline.svg"><img align="left" width="60%" src="metrics.plugin.isocalendar.svg"><img align="center" width="33%" src="metrics.plugin.activity.svg"><img align="center" width="33%" src="metrics.plugin.stars.svg">
-<img align="left" width="49%" src="metrics.plugin.followup.indepth.svg"/><img align="center" width="45%"  src="metrics.plugin.followup.user.svg"/>
-<img align="left" width="60%" src="metrics.plugin.achievements.compact.svg"/>
-<img align="left" width="66%" src="metrics.plugin.people.followers.svg"/>
- <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg" width="100%">
+
+[<img align="left" width="60%" src="metrics.base.svg">](#) [<img align="center" width="33%" src="metrics.plugin.skyline.svg">](#) [<img align="left" width="60%" src="metrics.plugin.isocalendar.svg">](#) [<img align="center" width="33%" src="metrics.plugin.activity.svg">](#) [<img align="center" width="33%" src="metrics.plugin.stars.svg">](#)
+[<img align="left" width="49%" src="metrics.plugin.followup.indepth.svg"/>](#)[<img align="center" width="45%"  src="metrics.plugin.followup.user.svg"/>](#)
+[<img align="left" width="60%" src="metrics.plugin.achievements.compact.svg"/>](#)
+[<img align="left" width="66%" src="metrics.plugin.people.followers.svg"/>](#)
+<img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg" width="100%">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
