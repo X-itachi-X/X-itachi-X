@@ -22,15 +22,15 @@
 
 </br>
 
-<details open><summary>Basic Details</summary><img align="left" width="60%" src="metrics.base.svg"></img></details>
-<details open><summary>Skyline calendar</summary><img align="center" width="33%" src="metrics.plugin.skyline.svg"></img></details> 
-<details open><summary>isocalendar</summary><img align="left" width="60%" src="metrics.plugin.isocalendar.svg"></img></details> 
-<details open><summary>activity</summary><img align="center" width="33%" src="metrics.plugin.activity.svg"></img></details>
-<details open><summary>Basic Details</summary><img align="center" width="33%" src="metrics.plugin.stars.svg"></img></details>
-<details open><summary>followup</summary><img align="left" width="49%" src="metrics.plugin.followup.indepth.svg"/></img></details>
-<details open><summary>followup.user</summary><img align="center" width="45%"  src="metrics.plugin.followup.user.svg"/></img></details>
-<details open><summary>achievements</summary><img align="left" width="60%" src="metrics.plugin.achievements.compact.svg"/></img></details>
-<details open><summary>followers</summary><img align="left" width="66%" src="metrics.plugin.people.followers.svg"/></img></details>
+<img align="left" width="60%" src="metrics.base.svg"></img>
+<img align="center" width="33%" src="metrics.plugin.skyline.svg"></img> 
+<img align="left" width="60%" src="metrics.plugin.isocalendar.fullyear.svg"></img>
+<img align="center" width="33%" src="metrics.plugin.activity.svg"></img>
+<img align="center" width="33%" src="metrics.plugin.stars.svg"></img>
+<img align="left" width="49%" src="metrics.plugin.followup.indepth.svg"/></img>
+<img align="center" width="45%"  src="metrics.plugin.followup.user.svg"/></img>
+<img align="left" width="60%" src="metrics.plugin.achievements.compact.svg"/></img>
+<img align="left" width="66%" src="metrics.plugin.people.followers.svg"/></img>
 <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg" width="100%">
 
 <!--📏LINE-->
