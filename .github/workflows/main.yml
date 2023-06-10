@@ -20,13 +20,17 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           
-      - name: Half-year calendar
-        uses: lowlighter/metrics@latest
+      - name: 📅 Isometric commit calendar - Full-year calendar
+        uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.isocalendar.svg
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: none
+          delay: 120
+          
           
       - name: GitHub Skyline
         uses: lowlighter/metrics@latest
