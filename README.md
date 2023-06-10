@@ -24,8 +24,8 @@
 
 <img align="left" width="60%" src="metrics.base.svg"></img>
 <img align="center" width="33%" src="metrics.plugin.skyline.svg"></img> 
-<img align="center" width="35%" src="metrics.plugin.stargazers.svg"/></img>
-<img align="center" width="35%" src="metrics.plugin.languages.indepth.svg"/></img>
+<img align="center" width="33%" src="metrics.plugin.stargazers.svg"/></img>
+<img align="center" width="33%" src="metrics.plugin.languages.indepth.svg"/></img>
 <img align="left" width="60%" src="metrics.plugin.activity.svg"></img>
 <img align="left" width="60%" src="metrics.plugin.stars.svg"></img>
 <img align="left" width="49%" src="metrics.plugin.followup.indepth.svg"/></img>
