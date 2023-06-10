@@ -259,4 +259,15 @@ jobs:
           plugin_licenses_setup: "bash -c '[[ -f package.json ]] && npm ci || true'"
           plugin_licenses_legal: no
           plugin_licenses_ratio: yes
+          
 
+      - name: Favorites characters
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.characters.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 22
+       
