@@ -309,6 +309,7 @@
 <!-- Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 
+<!-- Github stats-->
 <h1 align="center">
  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="9%">    GitHub Stats     <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="9%" >
  </h1>
@@ -329,8 +330,9 @@
  </br>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=X-itachi-X&theme=github-compact" width="100%">
 
+ <!-- Github Trophies-->
  <h1 align="center">
- <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="9%">    GitHub Trophies     <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="9%" >
+ <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="9%">     GitHub Trophies     <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="9%" >
  </h1>
 
 ![](https://github-profile-trophy.vercel.app/?username=X-itachi-X&theme=radical&no-frame=false&no-bg=true&margin-w=65)
