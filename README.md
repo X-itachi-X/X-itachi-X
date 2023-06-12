@@ -29,9 +29,9 @@
 <!--<img align="right" width="9%" src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg"> <p style="font-size: 40px;"  align="right" >Watch This Moon Live > > > > > </p>-->
 <img align="left" width="60%" src="metrics.plugin.activity.svg"></img>
 <img align="left" width="60%" src="metrics.plugin.stars.svg"></img>
-<img align="left" width="49%" src="metrics.plugin.followup.indepth.svg"/></img>
-<img align="center" width="45%"  src="metrics.plugin.followup.user.svg"/></img>
-<img align="left" width="60%" src="metrics.plugin.achievements.compact.svg"/></img>
+<img align="left" width="60%" src="metrics.plugin.followup.indepth.svg"/></img>
+<img align="left" width="60%"  src="metrics.plugin.followup.user.svg"/></img>
+<img align="left" width="65%" src="metrics.plugin.achievements.compact.svg"/></img>
 <img align="left" width="66%" src="metrics.plugin.people.followers.svg"/></img>           
 
 <img align="left" width="100%" src="profile-3d-contrib/profile-night-rainbow.svg"></img>
