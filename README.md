@@ -34,7 +34,7 @@
 <img align="left" width="65%" src="metrics.plugin.achievements.compact.svg"/></img>
 <img align="left" width="75%" src="metrics.plugin.people.followers.svg"/></img>           
 
-<img align="left" width="100%" src="profile-3d-contrib/profile-night-rainbow.svg"></img>
+<table><tr><td><img align="left" width="100%" src="profile-3d-contrib/profile-night-rainbow.svg"></img></td></tr></table>
 
 
 <!--📏LINE-->
