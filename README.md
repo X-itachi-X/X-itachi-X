@@ -392,7 +392,7 @@
  
 <h1 align="center">
  <img src="https://media1.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif?cid=ecf05e47stjb15nj1fve5ekbrydjsidq2xll0kxyb87wzlaf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="8%" align="">
- 🧌🧔‍♀️🧔🏼‍♂️🧔🧔🏻‍♀️🧔🏼‍♀️🧔🏽‍♀️🧔🏾‍♀️  Social  🧔🏿‍♀️🧔‍♂️🧔🏻‍♂️🧔🏼‍♂️🧔🏽‍♂️🧔🏾‍♂️🧔🏿‍♂️🧌
+ 🧌🧔🏼‍♂️🧔🏻‍♀️🧔🏼‍♀️🧔🏽‍♀️🧔🏾‍♀️  Social  🧔🏿‍♀️🧔🏻‍♂️🧔🏼‍♂️🧔🏾‍♂️🧔🏿‍♂️🧌
  <img src="https://media1.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif?cid=ecf05e47stjb15nj1fve5ekbrydjsidq2xll0kxyb87wzlaf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="8%" align="">
 </h1>
 </br>
