@@ -31,7 +31,7 @@
 <img align="left" width="60%" src="metrics.plugin.stars.svg"></img>
 <img align="left" width="70%" src="metrics.plugin.followup.indepth.svg"/></img>
 <img align="left" width="70%"  src="metrics.plugin.followup.user.svg"/></img>
-<img align="left" width="65%" src="metrics.plugin.achievements.compact.svg"/></img>
+<img align="left" width="75%" src="metrics.plugin.achievements.compact.svg"/></img>
 <img align="left" width="75%" src="metrics.plugin.people.followers.svg"/></img>           
 
 <table><tr><td align="center"><img align="center" width="98%" src="profile-3d-contrib/profile-night-rainbow.svg"></img></td></tr></table>
