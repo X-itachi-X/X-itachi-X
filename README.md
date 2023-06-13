@@ -41,7 +41,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 <!-- Tech Stack-->
 
-<h1 align="center">My Tech Stacks</h1>
+<h1 align="center"> 🗽 My Tech Stacks 🗽 </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Patua+One&size=25&duration=3000&pause=1000&color=949494&width=598&height=60&lines=What+Do+I+Know+%3F;What+Tech+Stacks+I+Use+%3F;Which+Frameworks+I+work+on+%3F;What+Languages+I+like+to+Code+%3F;Which+IDEs+I+Use+to+Code+%3F;What+Operating+Systems+I+have+Worked+on+%3F" alt="Typing SVG" width="80%"> </br>
 
 
