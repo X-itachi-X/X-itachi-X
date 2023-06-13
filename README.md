@@ -34,7 +34,7 @@
 <img align="left" width="65%" src="metrics.plugin.achievements.compact.svg"/></img>
 <img align="left" width="75%" src="metrics.plugin.people.followers.svg"/></img>           
 
-<table><tr><td><img align="left" width="100%" src="profile-3d-contrib/profile-night-rainbow.svg"></img></td></tr></table>
+<table><tr><td align="center"><img align="center" width="98%" src="profile-3d-contrib/profile-night-rainbow.svg"></img></td></tr></table>
 
 
 <!--📏LINE-->
@@ -45,7 +45,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Patua+One&size=25&duration=3000&pause=1000&color=949494&width=598&height=60&lines=What+Do+I+Know+%3F;What+Tech+Stacks+I+Use+%3F;Which+Frameworks+I+work+on+%3F;What+Languages+I+like+to+Code+%3F;Which+IDEs+I+Use+to+Code+%3F;What+Operating+Systems+I+have+Worked+on+%3F" alt="Typing SVG" width="80%"> </br>
 
 
-<table align="center">
+<table align="center" width="80%">
   <tr>
    <th width="33%"><h2> 📋 Languages </h2></th>
    <th width="33%"><h2> 📚 Frameworks, Platforms and Libraries </h2></th>
