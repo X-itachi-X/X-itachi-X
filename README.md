@@ -27,8 +27,8 @@
 <img align="center" width="33%" src="metrics.plugin.stargazers.svg"/></img>
 <img align="center" width="33%" src="metrics.plugin.languages.indepth.svg"/></img>
 <!--<img align="right" width="9%" src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg"> <p style="font-size: 40px;"  align="right" >Watch This Moon Live > > > > > </p>-->
-<img align="left" width="60%" src="metrics.plugin.activity.svg"></img>
-<img align="left" width="60%" src="metrics.plugin.stars.svg"></img>
+<img align="left" width="70%" src="metrics.plugin.activity.svg"></img>
+<img align="left" width="70%" src="metrics.plugin.stars.svg"></img>
 <img align="left" width="70%" src="metrics.plugin.followup.indepth.svg"/></img>
 <img align="left" width="70%"  src="metrics.plugin.followup.user.svg"/></img>
 <img align="left" width="75%" src="metrics.plugin.achievements.compact.svg"/></img>
