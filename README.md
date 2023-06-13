@@ -16,7 +16,7 @@
 
 <!--🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too -->
 <!-- About Me-->
-<h1 align="center"> About Me </h1>
+<h1 align="center">💵 💴 💶 💷 About Me 💵 💴 💶 💷 </h1>
 
 [<img src="https://readme-typing-svg.demolab.com?font=Patua+One&size=31&duration=3000&pause=1000&color=959da5&width=598&lines=Who+Am+I+%3F;You+Wanna+Know+About+Me+%3F;I+Am+Vengeance+!+;Just+Kidding....;Here+Look+At+My+Profile;But+you+Can+Call+me+The+Last+Hunter+King" alt="Typing SVG" width="70%"></img>](#)
 
@@ -379,9 +379,10 @@
 
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
  
 <!--Music-->
+<h1 align="center">🎧 Music 🎧</h1>
 <div align="center"><img src="https://camo.githubusercontent.com/4724bb0207102e95a2b4ae8a61b2286022f7859aa029e83aad5389942e5a7793/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f496f75306737746c45346b6d6569535438592f323030772e776562703f6369643d6563663035653437646b6232633767707a6b65716a79736d6e7a3662627471717671636d656464776c62346a707a63352665703d76315f737469636b6572735f736561726368267269643d323030772e776562702663743d73" width="21%"><img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="45%"><img src="https://camo.githubusercontent.com/4724bb0207102e95a2b4ae8a61b2286022f7859aa029e83aad5389942e5a7793/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f496f75306737746c45346b6d6569535438592f323030772e776562703f6369643d6563663035653437646b6232633767707a6b65716a79736d6e7a3662627471717671636d656464776c62346a707a63352665703d76315f737469636b6572735f736561726368267269643d323030772e776562702663743d73" width="21%"></div>
 
 
@@ -389,7 +390,13 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
  
-## 🌐 Socials: <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
+<h1 align="center">
+ <img src="https://media1.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif?cid=ecf05e47stjb15nj1fve5ekbrydjsidq2xll0kxyb87wzlaf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="8%" align="">
+ 🧌🧔‍♀️🧔🏼‍♂️🧔🧔🏻‍♀️🧔🏼‍♀️🧔🏽‍♀️🧔🏾‍♀️  Social  🧔🏿‍♀️🧔‍♂️🧔🏻‍♂️🧔🏼‍♂️🧔🏽‍♂️🧔🏾‍♂️🧔🏿‍♂️🧌
+ <img src="https://media1.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif?cid=ecf05e47stjb15nj1fve5ekbrydjsidq2xll0kxyb87wzlaf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="8%" align="">
+</h1>
+</br>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ankit.prakash_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitprakashprogrammer) 
  
 <!--📏LINE-->
