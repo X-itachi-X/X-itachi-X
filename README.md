@@ -16,7 +16,7 @@
 
 <!--🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too -->
 <!-- About Me-->
-<h1 align="center">💵 💴 💶 💷 About Me 💵 💴 💶 💷 </h1>
+<h1 align="center">💵  About Me 💵  </h1>
 
 [<img src="https://readme-typing-svg.demolab.com?font=Patua+One&size=31&duration=3000&pause=1000&color=959da5&width=598&lines=Who+Am+I+%3F;You+Wanna+Know+About+Me+%3F;I+Am+Vengeance+!+;Just+Kidding....;Here+Look+At+My+Profile;But+you+Can+Call+me+The+Last+Hunter+King" alt="Typing SVG" width="70%"></img>](#)
 
