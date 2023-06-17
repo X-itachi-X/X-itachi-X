@@ -391,9 +391,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
  
 <h1 align="center">
- <img src="https://media1.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif?cid=ecf05e47stjb15nj1fve5ekbrydjsidq2xll0kxyb87wzlaf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="8%" align="">
+ <img src="https://media1.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif?cid=ecf05e47stjb15nj1fve5ekbrydjsidq2xll0kxyb87wzlaf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="4%" align="">
   Social 
- <img src="https://media1.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif?cid=ecf05e47stjb15nj1fve5ekbrydjsidq2xll0kxyb87wzlaf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="8%" align="">
+ <img src="https://media1.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif?cid=ecf05e47stjb15nj1fve5ekbrydjsidq2xll0kxyb87wzlaf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="4%" align="">
 </h1>
 </br>
 
