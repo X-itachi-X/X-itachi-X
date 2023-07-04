@@ -1,13 +1,19 @@
 <!--ANDI BANDI SANDI JO CODE CHORI KRE USKI ---------->
 <!-- header anime -->
-<img src="https://media.tenor.com/If_cUJ1rpCEAAAAi/arcane-jinx.gif" width="25%" align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" width="36%" align="center"><img src="https://media.tenor.com/g0UqWKez17EAAAAi/arcane-jinx.gif" width="25%" align="right"></br>
-<img src="https://media.tenor.com/fRmdE8epuE0AAAAj/syctk-saycotik.gif" width="14%" align="center"><img src="https://media.tenor.com/fRmdE8epuE0AAAAj/syctk-saycotik.gif" width="10%" align="center"><img src="https://media.tenor.com/fRmdE8epuE0AAAAj/syctk-saycotik.gif" width="14%" align="center">
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" width="48%" align="center"></p>
+<table>
+ <tr>
+  <td width="30%"><img src="https://media.tenor.com/_7QhtyfyO0IAAAAC/zenitsu-gif.gif"></td>
+  <td align="center"> <img src="https://media.tenor.com/fRmdE8epuE0AAAAj/syctk-saycotik.gif" width="40%" align="center"><img src="https://media.tenor.com/fRmdE8epuE0AAAAj/syctk-saycotik.gif" width="20%" align="center"><img src="https://media.tenor.com/fRmdE8epuE0AAAAj/syctk-saycotik.gif" width="40%" align="center"></td>
+  <td width="30%"><img src="https://media.tenor.com/_7QhtyfyO0IAAAAC/zenitsu-gif.gif"></td>
+ </tr>
+</table>
 <table>
  <tr>
   <td> <img src="https://media3.giphy.com/media/4ilFRqgbzbx4c/giphy.gif?cid=ecf05e47dcwkm0hgur8qeojbvjp23pceeo9pdii58gcaffvp&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220%" width="150%" > </td>
   <td> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNhYjZjYjAwZDJkNzQwYWZiYWQ2ZDRjNjZmYzQxNzJlZTU0N2U1NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/12q7JyfK1UolW0/giphy.gif" height="220%" width="150%" > </td>
   <td> <img src="https://media.tenor.com/S8tFSa9K66EAAAAC/sukuna-jujutsu-kaisen.gif" height="220%" width="190%" > </td>
-  <td> <img src="https://media.tenor.com/2MZefLVtgeUAAAAC/hitagi-senjougahara-anime.gif" height="220%" width="150%" > </td>
+  <td> <img src="https://media.tenor.com/9eu9F42NQuYAAAAd/dance-anime-cool.gif" height="220%" width="150%" > </td>
   <td> <img src="https://media.tenor.com/ZQndYO4NwBcAAAAC/gojo-satoru.gif" height="290%" width="150%" > </td>
  </tr>
  </table>
