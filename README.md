@@ -349,7 +349,11 @@
  </table
  </br>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=X-itachi-X&theme=github-compact" width="100%">
- <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg" width="100%">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+   <img alt="github-snake" src="github-contribution-grid-snake.svg" width="100%" />
+ </picture>
 
  <!-- Github Trophies-->
  <h1 align="center">
