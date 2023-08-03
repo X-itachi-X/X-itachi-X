@@ -77,7 +77,7 @@ jobs:
           plugin_achievements_only: sponsor, maintainer, octonaut
           
       - name: Compact display
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
