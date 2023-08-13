@@ -354,6 +354,7 @@
    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
    <img alt="github-snake" src="github-contribution-grid-snake.svg" width="100%" />
  </picture>
+ <img src="github-contribution-grid-snake-dark.svg" width="100%" />
 
  <!-- Github Trophies-->
  <h1 align="center">
