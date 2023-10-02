@@ -57,7 +57,7 @@ jobs:
           
           
       - name: GitHub Skyline
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.skyline.svg
           token: NOT_NEEDED
