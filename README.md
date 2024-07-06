@@ -22,10 +22,6 @@
 
 <!--🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too -->
 <!-- About Me-->
-<h1 align="center">💵  About Me 💵  </h1>
-
-</br>
-
 <img align="left" width="60%" src="metrics.base.svg"></img>
 <img align="center" width="33%" src="metrics.plugin.skyline.svg"></img> 
 <img align="center" width="33%" src="metrics.plugin.stargazers.svg"/></img>
