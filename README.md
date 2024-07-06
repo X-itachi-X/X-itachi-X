@@ -24,8 +24,6 @@
 <!-- About Me-->
 <h1 align="center">💵  About Me 💵  </h1>
 
-[<img src="https://readme-typing-svg.demolab.com?font=Patua+One&size=31&duration=3000&pause=1000&color=959da5&width=598&lines=Who+Am+I+%3F;You+Wanna+Know+About+Me+%3F;I+Am+Vengeance+!+;Just+Kidding....;Here+Look+At+My+Profile;But+you+Can+Call+me+The+Last+Hunter+King" alt="Typing SVG" width="70%"></img>](#)
-
 </br>
 
 <img align="left" width="60%" src="metrics.base.svg"></img>
