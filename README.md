@@ -17,8 +17,6 @@
   <td> <img src="https://media.tenor.com/ZQndYO4NwBcAAAAC/gojo-satoru.gif" height="290%" width="150%" > </td>
  </tr>
  </table>
-<!-- Line -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 
 <!--🔭I'm currently working on Mobile Applications <br>🫂I'm looking to collaborate on Open Source Projects<br>🌱I'm currently learning about React Native<br>☕Ask me about Coffee and Snacks<br>💡Fun fact: I am an Engineer too -->
 <!-- About Me-->
