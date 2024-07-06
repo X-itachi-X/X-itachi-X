@@ -372,19 +372,6 @@
 <h1 align="center">🎧 Music 🎧</h1>
 <div align="center"><img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="45%"></div>
 
-
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
- 
-<h1 align="center">
- <img src="https://media1.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif?cid=ecf05e47stjb15nj1fve5ekbrydjsidq2xll0kxyb87wzlaf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="4%" align="">
-  Social 
- <img src="https://media1.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif?cid=ecf05e47stjb15nj1fve5ekbrydjsidq2xll0kxyb87wzlaf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="4%" align="">
-</h1>
-</br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ankit.prakash_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitprakashprogrammer) 
  
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
