@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#7 Ankit</span>
+                                        <span class="issue">#9 splash screen bug resolved</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">manoindia98/Event-Management</span></div>
-                                    <div>13 files changed <span class="code">++308 --136</span></div>
+                                    <div>5 files changed <span class="code">++5 --10</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#7 Ankit</span>
+                                        <span class="issue">#9 splash screen bug resolved</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">manoindia98/Event-Management</span></div>
-                                    <div>13 files changed <span class="code">++308 --136</span></div>
+                                    <div>5 files changed <span class="code">++5 --10</span></div>
                                 </div>
                             </section>
                         </div>
@@ -57,12 +57,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#6 responsive bug resolved</span>
+                                        <span class="issue">#8 Splash Screen</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">manoindia98/Event-Management</span></div>
-                                    <div>3 files changed <span class="code">++17 --3</span></div>
+                                    <div>19 files changed <span class="code">++221 --764</span></div>
                                 </div>
                             </section>
                         </div>
@@ -74,12 +74,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#6 responsive bug resolved</span>
+                                        <span class="issue">#8 Splash Screen</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">manoindia98/Event-Management</span></div>
-                                    <div>3 files changed <span class="code">++17 --3</span></div>
+                                    <div>19 files changed <span class="code">++221 --764</span></div>
                                 </div>
                             </section>
                         </div>
@@ -91,12 +91,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#5 resolved responsive bug</span>
+                                        <span class="issue">#7 Ankit</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">manoindia98/Event-Management</span></div>
-                                    <div>5 files changed <span class="code">++71 --57</span></div>
+                                    <div>13 files changed <span class="code">++308 --136</span></div>
                                 </div>
                             </section>
                         </div>
