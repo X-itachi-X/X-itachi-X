@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 57.9mb of code in 758 edited files across 252 commits</small>
+                <small>estimation from 57.9mb of code in 802 edited files across 262 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="276.5662049805115" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="276.5662049805115" y="0" width="156.29387460183386" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="432.86007958234535" y="0" width="27.13992041765466" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.9000953944298" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="288.9000953944298" y="0" width="146.48336061598846" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="435.38345601041823" y="0" width="24.616543989581743" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 TSX
                             </div>
                             <small>
-                                <div>9.21k lines</div>
-                                <div>236 kB</div>
+                                <div>10.6k lines</div>
+                                <div>275 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,8 +48,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>879 lines</div>
-                                <div>23.1 kB</div>
+                                <div>900 lines</div>
+                                <div>23.5 kB</div>
                             </small>
                         </div>
                     </section>
@@ -62,8 +62,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>5.41k lines</div>
-                                <div>133 kB</div>
+                                <div>5.67k lines</div>
+                                <div>139 kB</div>
                             </small>
                         </div>
                     </section>
