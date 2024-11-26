@@ -22,8 +22,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.4131167621884" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="325.4131167621884" y="0" width="116.44131516180592" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="408.67459720721484" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="408.67459720721484" y="0" width="33.179834716779446" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="441.8544319239943" y="0" width="18.145568076005716" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
@@ -36,8 +36,8 @@
                                 TSX
                             </div>
                             <small>
-                                <div>16.1k lines</div>
-                                <div>426 kB</div>
+                                <div>20.4k lines</div>
+                                <div>535 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,8 +62,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>6.14k lines</div>
-                                <div>152 kB</div>
+                                <div>1.80k lines</div>
+                                <div>43.4 kB</div>
                             </small>
                         </div>
                     </section>
