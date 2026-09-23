@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.439839654101" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="303.439839654101" y="0" width="122.57460197981673" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="426.0144416339177" y="0" width="21.354712786535146" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="447.36915442045284" y="0" width="12.630845579547145" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.2403962267902" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="232.2403962267902" y="0" width="203.06730737781928" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="435.30770360460946" y="0" width="16.256700884815004" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.5644044894245" y="0" width="8.435595510575517" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -47,9 +47,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Go
+                        Python
                     </div>
                 </div>
             </section>
