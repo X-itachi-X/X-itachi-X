@@ -1,3 +1,5 @@
+
+
 <!--ANDI BANDI SANDI JO CODE CHORI KRE USKI ---------->
 <!-- header anime -->
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" width="48%" align="center"></p>
@@ -338,7 +340,7 @@
   <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=X_itachi_X&api_domain=wakapi.dev&bg_color=22272e&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=This%20Week%20Stats&layout=compact"> </td>
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-itachi-X&theme=blue-green&bg_color=22272e&hide_border=false&include_all_commits=true&count_private=false&layout=compact" > </td>
  </tr>
- </table
+ </table>
  </br>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=X-itachi-X&theme=github-compact" width="100%">
  <picture>
